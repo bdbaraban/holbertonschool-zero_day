@@ -1,0 +1,4 @@
+0. Opening
+What is the command to open a file within Emacs?
+
+C-x C-f filename
