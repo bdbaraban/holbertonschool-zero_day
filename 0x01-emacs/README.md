@@ -1,5 +1,7 @@
 In this project, I learned about Emacs and using basic Emacs commands.
 
+---
+
 * `0-opening`: The command to open a file from within Emacs.
 * `1-saving`: The command to save a file.
 * `2-cutting`: The command to cut an entire line.

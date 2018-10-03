@@ -1,5 +1,7 @@
 In this project, I learned about vi and basic vi commands.
 
+---
+
 * `0-inserting`: The command to insert text before the cursor.
 * `1-cutting`: The command to cut the current line (yank, cut).
 * `2-pasting`: The command to paste the lines in the buffer into the text after the current line.
